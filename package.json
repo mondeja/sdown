@@ -1,7 +1,7 @@
 {
   "name": "sdown",
-  "version": "1.0.0",
-  "bin": "i.js",
+  "version": "1.0.1",
+  "bin": "i",
   "description": "Tiniest Node CLI file downloader.",
   "author": {
     "name": "Álvaro Mondéjar Rubio",
