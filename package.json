@@ -1,0 +1,15 @@
+{
+  "name": "sdown",
+  "version": "1.0.0",
+  "bin": "i.js",
+  "description": "Tiniest Node CLI file downloader.",
+  "author": {
+    "name": "Álvaro Mondéjar Rubio",
+    "email": "mondejar1994@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondeja/sdown.git"
+  },
+  "license": "BSD-3-Clause"
+}
